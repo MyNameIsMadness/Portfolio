@@ -1,4 +1,4 @@
-/* Assignment 1: Space Minesweeper
+/* Space Minesweeper
  * CSCI 4611, Spring 2022, University of Minnesota
  * Instructor: Evan Suma Rosenberg <suma@umn.edu>
  * License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
@@ -34,8 +34,6 @@ class Game
     private laserVectors : Array<paper.Point>;
     private mouseVector : paper.Point;
      
-
-    // Random point generator from Kiet on Slack
     private randomRange(min: number, max: number) : number { 
         return Math.random() * (max - min) + min;
     } 
