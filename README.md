@@ -5,5 +5,5 @@ Projects included on portfolio site:
 - VR Dungeons and Dragons! ★
 - Raytraceer Program! ★
 - Space Minesweeper Game! (Assignment 1 here) ★
-- Interactive Shaders Experience! ★
-- Interactive Dancing Robots Experience! ★
+- Interactive Shaders Experience! (Assignment 5 here) ★
+- Interactive Dancing Robots Experience! (Assignment 4 here) ★
