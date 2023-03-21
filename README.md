@@ -3,7 +3,7 @@ Hello! My name is Madi and I use They/Them pronouns! Want to see some projects I
 
 Projects included on portfolio site:
 - VR Dungeons and Dragons! ★
-- Raytraceer Program! ★
+- Raytracer Program! ★
 - Space Minesweeper Game! (Assignment 1 here) ★
 - Interactive Shaders Experience! (Assignment 5 here) ★
 - Interactive Dancing Robots Experience! (Assignment 4 here) ★
